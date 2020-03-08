@@ -2,7 +2,7 @@
   {
     "id" : 1,
     "que" : "If we cancel our booking will we receive our deposite back?",
-    "Ans" : "NA"
+    "Ans" : "Yes, you can cancel booking within 10 Days."
   },
   
   {
@@ -14,7 +14,7 @@
   {
     "id" : 3,
     "que" : "Which additional cost might occur?",
-    "Ans" : "NA"
+    "Ans" : "We give 20 Photos, If you want more than 20 photos then cost will increase"
   },
   
   {
@@ -26,12 +26,12 @@
   {
     "id" : 5,
     "que" : "Do I get all the images you take ?",
-    "Ans" : "NA"
+    "Ans" : "Yes, you get all softcopy after payment recieved"
   },
   
   {
     "id" : 6,
-    "que" : "Which location do you recomment for portrait Session?",
-    "Ans" : "NA"
+    "que" : "Which location do you recommend for portrait Session?",
+    "Ans" : "Will discuss on call"
   }
 ]
