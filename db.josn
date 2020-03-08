@@ -1,0 +1,37 @@
+[
+  {
+    "id" : 1,
+    "Que 1" : "If we cancel our booking will we receive our deposite back?"
+    "Ans" : "NA"
+  }
+  
+  {
+    "id" : 2,
+    "Que 1" : "What type of camera equipment do you use?"
+    "Ans" : "NA"
+  }
+  
+  {
+    "id" : 3,
+    "Que 1" : "Which additional cost might occur?"
+    "Ans" : "NA"
+  }
+  
+  {
+    "id" : 4,
+    "Que 1" : "Do you provide digital negatives (RAW files) after the shoot ?"
+    "Ans" : "NA"
+  }
+  
+  {
+    "id" : 5,
+    "Que 1" : "Do I get all the images you take ?"
+    "Ans" : "NA"
+  }
+  
+  {
+    "id" : 6,
+    "Que 1" : "Which location do you recomment for portrait Session?"
+    "Ans" : "NA"
+  }
+]
