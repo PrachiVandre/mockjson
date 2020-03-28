@@ -7,32 +7,32 @@
     },
     {
         "id": 2,
-        "title": "Your Orders",
-        "desc": "Track you package",
-        "img": "../assets/image/service01.png"
+        "title": "Returns & Refunds",
+        "desc": "Return or replace items",
+        "img": "../assets/image/service02.png"
     },
     {
         "id": 3,
-        "title": "Your Orders",
-        "desc": "Track you package",
-        "img": "../assets/image/service01.png"
+        "title": "Manage Addresses",
+        "desc": "Update your addresses",
+        "img": "../assets/image/service03.png"
     },
     {
         "id": 4,
-        "title": "Your Orders",
-        "desc": "Track you package",
-        "img": "../assets/image/service01.png"
+        "title": " Manage Prime",
+        "desc": "View your benefits",
+        "img": "../assets/image/service04.png"
     },
     {
         "id": 5,
-        "title": "Your Orders",
-        "desc": "Track you package",
-        "img": "../assets/image/service01.png"
+        "title": "Payment Settings",
+        "desc": "Add or edit payment methods",
+        "img": "../assets/image/service05.png"
     },
     {
         "id": 6,
-        "title": "Your Orders",
-        "desc": "Track you package",
-        "img": "../assets/image/service01.png"
+        "title": "Account Settings",
+        "desc": "Change your email, password",
+        "img": "../assets/image/service06.png"
     }
 ]
